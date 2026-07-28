@@ -1,9 +1,21 @@
-# Time Complexity
 
-This folder contains
+# Time and Space Complexity
 
-- Notes
-- Practice Examples
-- Complexity Analysis
+## Topics Covered
 
-Status : Completed ✅
+- What is Time Complexity
+- Big O Notation
+- Worst Case Analysis
+- Ignore Constants
+- Ignore Lower Order Terms
+- Time Complexity Examples
+- What is Space Complexity
+- Auxiliary Space
+- Space Complexity Examples
+
+## Files
+
+- notes.md
+- examples.cpp
+
+Status : ✅ Completed
