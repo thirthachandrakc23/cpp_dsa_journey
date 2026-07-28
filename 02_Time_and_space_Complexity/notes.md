@@ -34,6 +34,14 @@ O(log N)   (Will study later)
 
 ## Space Complexity
 
-Total Memory =
-Input Space +
-Auxiliary Space
+### Definition
+
+Space Complexity is the total amount of memory used by an algorithm during execution.
+
+### Formula
+
+Total Space = Input Space + Auxiliary Space
+
+### Input Space
+
+Memory required to store the input given by the user.
