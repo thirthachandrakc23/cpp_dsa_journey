@@ -5,8 +5,9 @@ int main(){
     cout << "Enter the number of lines required for square pattern: ";
     cin >> n;
     for(int i=1;i<=n;i++){
-        for(int j=n;j>=i;j--){
-            cout << "* ";
+        for(int j=1;j>=i;j++){
+            cout << j;
+            if(j==n)break;
         }
         cout << endl;
 
