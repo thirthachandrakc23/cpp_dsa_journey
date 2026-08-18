@@ -2,7 +2,8 @@
 using namespace std;
 void practpair(){
     pair<int , int> p={2,3};
-    cout << p.first << " " << p.second << endl ;
+    cout << p.first << " "
+     << p.second << endl ;
 
 
     pair<int , pair<int ,int>> p2={4,{6,7}};

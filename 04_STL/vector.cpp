@@ -10,15 +10,15 @@ void explainvector(){
 
     vector<pair<int, int>>vec;
 
-    
-    v.emplace_back(1,2);
+    vec.push_back({1,2});
+    vec.emplace_back(1,2);   
 
-    vector<int> v(5,100);
+    vector<int> vec(5,100);
 
-    vector<int> v(5);
+    vector<int> vec(5);
 
-    vector<int> v1(5,20);
-    vector<int> v2(v1);
+    vector<int> vec1(5,20);
+    vector<int> vec2(vec1);
 }
 int main(){
     explainvector();
