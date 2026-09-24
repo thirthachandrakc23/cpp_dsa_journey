@@ -5,7 +5,6 @@ void practpair(){
     cout << p.first << " "
      << p.second << endl ;
 
-
     pair<int , pair<int ,int>> p2={4,{6,7}};
     cout << p2.first << " " << p2.second.first << " " << p2.second.second;
     cout << endl;
